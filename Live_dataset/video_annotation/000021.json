@@ -1,0 +1,94 @@
+{
+	"video_id": "000021",
+	"frames": [{
+		"frame_index": 0,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [276, 341, 553, 828]
+		}]
+	}, {
+		"frame_index": 40,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [288, 323, 540, 828]
+		}]
+	}, {
+		"frame_index": 80,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [273, 333, 542, 813]
+		}]
+	}, {
+		"frame_index": 120,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [228, 332, 588, 793]
+		}]
+	}, {
+		"frame_index": 160,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [272, 336, 534, 836]
+		}]
+	}, {
+		"frame_index": 200,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [260, 336, 554, 861]
+		}]
+	}, {
+		"frame_index": 240,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [279, 351, 565, 868]
+		}]
+	}, {
+		"frame_index": 280,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [265, 353, 548, 877]
+		}]
+	}, {
+		"frame_index": 320,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [262, 328, 549, 874]
+		}]
+	}, {
+		"frame_index": 360,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002101,
+			"box": [268, 328, 553, 876]
+		}]
+	}]
+}

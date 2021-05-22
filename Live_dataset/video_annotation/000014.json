@@ -1,0 +1,130 @@
+{
+	"video_id": "000014",
+	"frames": [{
+		"frame_index": 0,
+		"annotations": [{
+			"label": "\u957f\u8896Top",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20001401,
+			"box": [293, 539, 569, 752]
+		}, {
+			"label": "\u77ed\u88e4",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 0,
+			"box": [377, 701, 497, 804]
+		}]
+	}, {
+		"frame_index": 40,
+		"annotations": [{
+			"label": "\u957f\u8896Top",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 20001401,
+			"box": [440, 516, 618, 767]
+		}, {
+			"label": "\u77ed\u88e4",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 0,
+			"box": [447, 701, 540, 811]
+		}]
+	}, {
+		"frame_index": 80,
+		"annotations": [{
+			"label": "\u957f\u8896Top",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 20001401,
+			"box": [394, 535, 618, 753]
+		}, {
+			"label": "\u77ed\u88e4",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 0,
+			"box": [458, 719, 555, 811]
+		}]
+	}, {
+		"frame_index": 120,
+		"annotations": [{
+			"label": "\u957f\u8896Top",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20001401,
+			"box": [367, 540, 600, 742]
+		}, {
+			"label": "\u77ed\u88e4",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 0,
+			"box": [459, 710, 559, 809]
+		}]
+	}, {
+		"frame_index": 160,
+		"annotations": [{
+			"label": "\u957f\u8896Top",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20001401,
+			"box": [385, 620, 633, 830]
+		}, {
+			"label": "\u957f\u8896Top",
+			"viewpoint": 1,
+			"display": 1,
+			"instance_id": 0,
+			"box": [183, 513, 386, 779]
+		}, {
+			"label": "\u957f\u88e4",
+			"viewpoint": 1,
+			"display": 1,
+			"instance_id": 0,
+			"box": [185, 760, 328, 1141]
+		}]
+	}, {
+		"frame_index": 200,
+		"annotations": []
+	}, {
+		"frame_index": 240,
+		"annotations": []
+	}, {
+		"frame_index": 280,
+		"annotations": [{
+			"label": "\u540a\u5e26Top",
+			"viewpoint": 2,
+			"display": 1,
+			"instance_id": 0,
+			"box": [186, 603, 265, 708]
+		}, {
+			"label": "\u77ed\u88e4",
+			"viewpoint": 2,
+			"display": 1,
+			"instance_id": 0,
+			"box": [192, 697, 267, 766]
+		}, {
+			"label": "\u957f\u8896Top",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 0,
+			"box": [287, 539, 478, 767]
+		}, {
+			"label": "\u957f\u88e4",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 0,
+			"box": [294, 746, 428, 1111]
+		}, {
+			"label": "\u957f\u8896Top",
+			"viewpoint": 2,
+			"display": 0,
+			"instance_id": 20001401,
+			"box": [439, 511, 653, 977]
+		}]
+	}, {
+		"frame_index": 320,
+		"annotations": []
+	}, {
+		"frame_index": 360,
+		"annotations": []
+	}]
+}

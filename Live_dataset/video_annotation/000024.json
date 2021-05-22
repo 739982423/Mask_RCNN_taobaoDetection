@@ -1,0 +1,94 @@
+{
+	"video_id": "000024",
+	"frames": [{
+		"frame_index": 0,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [381, 575, 545, 988]
+		}]
+	}, {
+		"frame_index": 40,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [380, 576, 545, 987]
+		}]
+	}, {
+		"frame_index": 80,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [382, 576, 552, 985]
+		}]
+	}, {
+		"frame_index": 120,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [380, 572, 549, 983]
+		}]
+	}, {
+		"frame_index": 160,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [377, 574, 543, 986]
+		}]
+	}, {
+		"frame_index": 200,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [372, 576, 536, 986]
+		}]
+	}, {
+		"frame_index": 240,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [376, 577, 541, 985]
+		}]
+	}, {
+		"frame_index": 280,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [377, 576, 541, 982]
+		}]
+	}, {
+		"frame_index": 320,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [341, 581, 519, 983]
+		}]
+	}, {
+		"frame_index": 360,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002401,
+			"box": [257, 586, 440, 983]
+		}]
+	}]
+}

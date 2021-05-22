@@ -1,0 +1,94 @@
+{
+	"video_id": "000022",
+	"frames": [{
+		"frame_index": 0,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [301, 529, 463, 856]
+		}]
+	}, {
+		"frame_index": 40,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 2,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [349, 502, 464, 871]
+		}]
+	}, {
+		"frame_index": 80,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 3,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [293, 508, 426, 860]
+		}]
+	}, {
+		"frame_index": 120,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [320, 505, 493, 863]
+		}]
+	}, {
+		"frame_index": 160,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 2,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [404, 513, 541, 865]
+		}]
+	}, {
+		"frame_index": 200,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [359, 542, 498, 840]
+		}]
+	}, {
+		"frame_index": 240,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [265, 503, 452, 881]
+		}]
+	}, {
+		"frame_index": 280,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [225, 427, 447, 935]
+		}]
+	}, {
+		"frame_index": 320,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [238, 490, 417, 885]
+		}]
+	}, {
+		"frame_index": 360,
+		"annotations": [{
+			"label": "\u77ed\u8896\u8fde\u8863\u88d9",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20002201,
+			"box": [336, 527, 491, 861]
+		}]
+	}]
+}

@@ -1,0 +1,100 @@
+{
+	"video_id": "000001",
+	"frames": [{
+		"frame_index": 0,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [214, 526, 519, 996]
+		}, {
+			"label": "\u957f\u88e4",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 0,
+			"box": [289, 988, 422, 1216]
+		}]
+	}, {
+		"frame_index": 40,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [248, 528, 551, 1043]
+		}]
+	}, {
+		"frame_index": 80,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [128, 528, 461, 1056]
+		}]
+	}, {
+		"frame_index": 120,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [242, 519, 507, 1036]
+		}]
+	}, {
+		"frame_index": 160,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [74, 521, 626, 1046]
+		}]
+	}, {
+		"frame_index": 200,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [257, 521, 525, 1084]
+		}]
+	}, {
+		"frame_index": 240,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [123, 523, 435, 1058]
+		}]
+	}, {
+		"frame_index": 280,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [111, 531, 437, 1073]
+		}]
+	}, {
+		"frame_index": 320,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [88, 530, 463, 1062]
+		}]
+	}, {
+		"frame_index": 360,
+		"annotations": [{
+			"label": "\u957f\u6b3e\u5916\u5957",
+			"viewpoint": 0,
+			"display": 1,
+			"instance_id": 20000101,
+			"box": [131, 522, 461, 1044]
+		}]
+	}]
+}

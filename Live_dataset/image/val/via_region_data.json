@@ -1,0 +1,276 @@
+{
+	"4.jpg": {
+		"filename": "4.jpg",
+		"size": 307027,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 2,
+				"y": 67,
+				"width": 897,
+				"height": 1157
+			},
+			"region_attributes": {
+				"type": "01"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"14.jpg": {
+		"filename": "14.jpg",
+		"size": 119050,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 124,
+				"y": 125,
+				"width": 529,
+				"height": 616
+			},
+			"region_attributes": {
+				"type": "03"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"25.jpg": {
+		"filename": "25.jpg",
+		"size": 122292,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 86,
+				"y": 6,
+				"width": 620,
+				"height": 679
+			},
+			"region_attributes": {
+				"type": "06"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"26.jpg": {
+		"filename": "26.jpg",
+		"size": 123758,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 74,
+				"y": 149,
+				"width": 650,
+				"height": 569
+			},
+			"region_attributes": {
+				"type": "06"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"41.jpg": {
+		"filename": "41.jpg",
+		"size": 124881,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 240,
+				"y": 70,
+				"width": 340,
+				"height": 429
+			},
+			"region_attributes": {
+				"type": "09"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"42.jpg": {
+		"filename": "42.jpg",
+		"size": 58481,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 110,
+				"y": 73,
+				"width": 581,
+				"height": 647
+			},
+			"region_attributes": {
+				"type": "09"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"54.jpg": {
+		"filename": "54.jpg",
+		"size": 155341,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 328,
+				"y": 230,
+				"width": 341,
+				"height": 440
+			},
+			"region_attributes": {
+				"type": "12"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"56.jpg": {
+		"filename": "56.jpg",
+		"size": 142497,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 322,
+				"y": 265,
+				"width": 298,
+				"height": 382
+			},
+			"region_attributes": {
+				"type": "12"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"59.jpg": {
+		"filename": "59.jpg",
+		"size": 289084,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 67,
+				"y": 5,
+				"width": 586,
+				"height": 715
+			},
+			"region_attributes": {
+				"type": "13"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"71.jpg": {
+		"filename": "71.jpg",
+		"size": 115942,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 233,
+				"y": 65,
+				"width": 333,
+				"height": 655
+			},
+			"region_attributes": {
+				"type": "15"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"74.jpg": {
+		"filename": "74.jpg",
+		"size": 158427,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 137,
+				"y": 144,
+				"width": 883,
+				"height": 1077
+			},
+			"region_attributes": {
+				"type": "16"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"81.jpg": {
+		"filename": "81.jpg",
+		"size": 149763,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 178,
+				"y": 142,
+				"width": 464,
+				"height": 454
+			},
+			"region_attributes": {
+				"type": "17"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"85.jpg": {
+		"filename": "85.jpg",
+		"size": 180118,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 7,
+				"y": 227,
+				"width": 791,
+				"height": 490
+			},
+			"region_attributes": {
+				"type": "18"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"88.jpg": {
+		"filename": "88.jpg",
+		"size": 112991,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 156,
+				"y": 217,
+				"width": 413,
+				"height": 359
+			},
+			"region_attributes": {
+				"type": "19"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"92.jpg": {
+		"filename": "92.jpg",
+		"size": 150717,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 51,
+				"y": 56,
+				"width": 746,
+				"height": 656
+			},
+			"region_attributes": {
+				"type": "19"
+			}
+		}],
+		"file_attributes": {}
+	},
+	"99.jpg": {
+		"filename": "99.jpg",
+		"size": 466287,
+		"regions": [{
+			"shape_attributes": {
+				"name": "rect",
+				"x": 476,
+				"y": 134,
+				"width": 760,
+				"height": 1529
+			},
+			"region_attributes": {
+				"type": "22"
+			}
+		}],
+		"file_attributes": {}
+	}
+
+
+}
